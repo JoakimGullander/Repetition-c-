@@ -1,0 +1,13 @@
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\bin\Debug\netcoreapp3.1\Repetition.exe
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\bin\Debug\netcoreapp3.1\Repetition.deps.json
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\bin\Debug\netcoreapp3.1\Repetition.runtimeconfig.json
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\bin\Debug\netcoreapp3.1\Repetition.runtimeconfig.dev.json
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\bin\Debug\netcoreapp3.1\Repetition.dll
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\bin\Debug\netcoreapp3.1\Repetition.pdb
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\obj\Debug\netcoreapp3.1\Repetition.csprojAssemblyReference.cache
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\obj\Debug\netcoreapp3.1\Repetition.csproj.CoreCompileInputs.cache
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\obj\Debug\netcoreapp3.1\Repetition.AssemblyInfoInputs.cache
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\obj\Debug\netcoreapp3.1\Repetition.AssemblyInfo.cs
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\obj\Debug\netcoreapp3.1\Repetition.dll
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\obj\Debug\netcoreapp3.1\Repetition.pdb
+C:\Users\joakim.gullander\source\repos\Repetition\Repetition\obj\Debug\netcoreapp3.1\Repetition.genruntimeconfig.cache
